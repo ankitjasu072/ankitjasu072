@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitjasu072
-- 👀 I’m interested in UI/UX Design and Frontend Development
+- 👀 I’m interested in UX,Product Design and App Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at:
      ankitjasu050@gmail.com
